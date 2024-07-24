@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZE7ALhJUblh996u5nrir0W3qAtqce8/vGaaSgrPJ6/8=",
+  "Source": "SmtpEmailSender",
+  "BasePath": "_content/SmtpEmailSender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

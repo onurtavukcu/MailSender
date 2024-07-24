@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\smtpsender\\activesyncmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\smtpsender\\activesyncmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\models\\mailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\models\\mailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\controllers\\activesynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\controllers\\activesynccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\models\\smtpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\models\\smtpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\models\\activesyncprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\models\\activesyncprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\controllers\\smtpmailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\controllers\\smtpmailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\smtpsender\\smtpmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\smtpsender\\smtpmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\smtpsender\\iactivesyncmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\smtpsender\\iactivesyncmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|c:\\users\\onur.tavukcu\\source\\repos\\smtpemailsender\\smtpemailsender\\smtpsender\\ismtpmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8D6ABB-737F-4A32-80F9-A39866639EC0}|SmtpEmailSender\\SmtpEmailSender.csproj|solutionrelative:smtpemailsender\\smtpsender\\ismtpmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmtpProvider.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Models\\SmtpProvider.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\Models\\SmtpProvider.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Models\\SmtpProvider.cs",
+              "RelativeToolTip": "SmtpEmailSender\\Models\\SmtpProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:18:00.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmtpMailSenderController.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Controllers\\SmtpMailSenderController.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\Controllers\\SmtpMailSenderController.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Controllers\\SmtpMailSenderController.cs",
+              "RelativeToolTip": "SmtpEmailSender\\Controllers\\SmtpMailSenderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:16:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\appsettings.json",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\appsettings.json",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\appsettings.json",
+              "RelativeToolTip": "SmtpEmailSender\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T11:16:25.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActiveSyncProvider.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Models\\ActiveSyncProvider.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\Models\\ActiveSyncProvider.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Models\\ActiveSyncProvider.cs",
+              "RelativeToolTip": "SmtpEmailSender\\Models\\ActiveSyncProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:11:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Program.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\Program.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Program.cs",
+              "RelativeToolTip": "SmtpEmailSender\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:09:59.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IActiveSyncMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\IActiveSyncMailSender.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\SmtpSender\\IActiveSyncMailSender.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\IActiveSyncMailSender.cs",
+              "RelativeToolTip": "SmtpEmailSender\\SmtpSender\\IActiveSyncMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:53:50.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActiveSyncController.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Controllers\\ActiveSyncController.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\Controllers\\ActiveSyncController.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Controllers\\ActiveSyncController.cs",
+              "RelativeToolTip": "SmtpEmailSender\\Controllers\\ActiveSyncController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:51:58.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailModel.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Models\\MailModel.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\Models\\MailModel.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\Models\\MailModel.cs",
+              "RelativeToolTip": "SmtpEmailSender\\Models\\MailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:47:46.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActiveSyncMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\ActiveSyncMailSender.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\SmtpSender\\ActiveSyncMailSender.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\ActiveSyncMailSender.cs",
+              "RelativeToolTip": "SmtpEmailSender\\SmtpSender\\ActiveSyncMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:46:06.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SMTPMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\SMTPMailSender.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\SmtpSender\\SMTPMailSender.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\SMTPMailSender.cs",
+              "RelativeToolTip": "SmtpEmailSender\\SmtpSender\\SMTPMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:32:19.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISmtpMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\ISmtpMailSender.cs",
+              "RelativeDocumentMoniker": "SmtpEmailSender\\SmtpSender\\ISmtpMailSender.cs",
+              "ToolTip": "C:\\Users\\onur.tavukcu\\source\\repos\\SmtpEmailSender\\SmtpEmailSender\\SmtpSender\\ISmtpMailSender.cs",
+              "RelativeToolTip": "SmtpEmailSender\\SmtpSender\\ISmtpMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:32:18.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
